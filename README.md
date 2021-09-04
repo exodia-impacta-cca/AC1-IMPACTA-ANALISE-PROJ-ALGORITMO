@@ -7,4 +7,3 @@ Integrantes:
 - Lucas da Silva Santos           RA: 1904209
 - Matheus de Jesus Oliveira       RA: 1903603
 - Rafael Serino Kiss              RA: 1903107
-

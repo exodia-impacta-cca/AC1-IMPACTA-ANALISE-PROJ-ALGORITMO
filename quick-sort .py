@@ -1,3 +1,5 @@
+from geradorAleatorios import l1,l2,l3
+
 # Implementação do algoritmo quick-sort **
 def particiona(lista, comeco, fim):
     pivo = lista[fim]
@@ -24,10 +26,10 @@ def quicksort(lista):
 # l1 Ordenada
 # [1, 2, 4, 4, 18, 29, 30, 32, 33, 35, 57, 63, 65, 74, 82, 98]
 print('Lista Aleatória:')
-print(l2)
+print(l1)
 
 print('Lista em processo processo de Ordenação:')
-quicksort(l2)
+quicksort(l1)
 
 print('Lista Ordenada:')
-print(l2)
+print(l1)

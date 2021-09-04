@@ -1,6 +1,6 @@
 from geradorAleatorios import l1,l2,l3
-# Implementação do algoritmo bucket-sort
 
+# Implementação do algoritmo bucket-sort
 def bucketSort(arr, noOfBuckets):
     max_ele = max(arr)
     min_ele = min(arr)
