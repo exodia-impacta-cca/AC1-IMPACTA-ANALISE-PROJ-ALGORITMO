@@ -15,7 +15,10 @@ def busca_binaria(lista, numero_procurado):
                 primeiro = meio + 1
     return False
 
+
 # Testes do algoritmo de busca binária
+# Ordena a lista antes de realizar a busca binária
+l1.sort()
 print(l1)
 numero_procurado = int(input("Digite o número que deseja procurar na lista: "))
 
